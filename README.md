@@ -54,7 +54,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/MicrosoftAzure%20-%23430098.svg?logo=MicrosoftAzure&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/MicrosoftAzure%20-%232370ED.svg?logo=MicrosoftAzure&logoColor=white"></a>
 </p> 
 
 ## Software and Tools
