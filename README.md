@@ -1,4 +1,4 @@
-![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+![Github Banner](https://github.com/kunal1697/kunal1697/blob/main/banner.png)
 
 ## Who am I?
 
@@ -13,10 +13,10 @@
 		return Nashik_India()
 	
   def WorkAs():
-    return Frontend_Developer();
+    return Frontend_Developer()
    
   def LovedToDo():
-    return LearnNewThings();    
+    return LearnNewThings()    
   
  ```
 
@@ -34,8 +34,8 @@
 
 ## Frameworks and Libraries
 <p>
-   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-563D7C?logo=React&logoColor=white"></a>
-   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-563D7C?logo=Next.js&logoColor=white"></a>
+   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-%23E34F26?logo=React&logoColor=white"></a>
+   <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000?logo=Next.js&logoColor=white"></a>
    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
    <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
 </p>
@@ -54,7 +54,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure%20-%23430098.svg?logo=Azure&logoColor=white"></a>
+    <a href="#"><img alt="Microsoft Azure" src="https://img.shields.io/badge/MicrosoftAzure%20-%23430098.svg?logo=MicrosoftAzure&logoColor=white"></a>
 </p> 
 
 ## Software and Tools
