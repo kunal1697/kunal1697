@@ -5,15 +5,15 @@
  ```python
   class WhoAmI:
     user = 'Kunal Pakhale'
-    Developer = "Javascript"
-    Loved_framework="React JS"
-    Currently_Learning="Kubernates"
+    Developer = "Full Stack Java Develper"
+    Loved_framework="Spring, React js"
+    Currently_Learning="React Native, Tree js"
   
 	def getCity():
 		return Nashik_India()
 	
   def WorkAs():
-    return Frontend_Developer()
+    return FullStackDeveloper()
    
   def LovedToDo():
     return LearnNewThings()    
