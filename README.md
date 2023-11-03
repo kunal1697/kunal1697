@@ -5,8 +5,8 @@
  ```python
   class WhoAmI:
     user = 'Kunal Pakhale'
-    Developer = "Full Stack Java Develper"
-    Loved_framework="Spring, React js"
+    Developer = "Full Stack Develper"
+    Loved_framework="Spring, React js,Django, Fast API"
     Currently_Learning="React Native, Tree js"
   
 	def getCity():
